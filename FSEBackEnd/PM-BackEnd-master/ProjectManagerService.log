@@ -1,0 +1,67 @@
+2019-09-25 00:00:34.940  INFO 3532 --- [http-nio-9001-exec-1] c.a.demo.controller.UserController       : Get all Users with count: 4
+2019-09-25 00:00:44.650  INFO 3532 --- [http-nio-9001-exec-9] c.a.demo.controller.ProjectController    : Get all Projects with count: 4
+2019-09-25 00:15:16.235  INFO 3532 --- [http-nio-9001-exec-7] c.a.demo.controller.ProjectController    : Get all Projects with count: 4
+2019-09-25 00:25:50.386  INFO 3532 --- [http-nio-9001-exec-5] c.a.demo.controller.ProjectController    : Get all Projects with count: 4
+2019-09-25 00:25:53.142  INFO 3532 --- [http-nio-9001-exec-3] c.a.demo.controller.ProjectController    : Get all Projects with count: 4
+2019-09-25 00:26:05.838  INFO 3532 --- [http-nio-9001-exec-1] c.a.demo.controller.ProjectController    : Get all Projects with count: 4
+2019-09-25 00:26:36.016  INFO 3532 --- [http-nio-9001-exec-9] c.a.demo.controller.UserController       : Get all Users with count: 4
+2019-09-25 00:26:54.429  INFO 3532 --- [http-nio-9001-exec-7] c.a.demo.controller.ProjectController    : Get all Projects with count: 4
+2019-09-25 00:27:02.040  INFO 3532 --- [http-nio-9001-exec-6] c.a.demo.controller.ProjectController    : Get all Projects with count: 4
+2019-09-25 00:27:04.081  INFO 3532 --- [http-nio-9001-exec-4] c.a.demo.controller.ProjectController    : Get all Projects with count: 4
+2019-09-25 00:38:06.712  INFO 3532 --- [http-nio-9001-exec-2] c.a.demo.controller.ProjectController    : Get all Projects with count: 4
+2019-09-25 00:44:25.141  INFO 3532 --- [http-nio-9001-exec-10] c.a.demo.controller.ProjectController    : Get all Projects with count: 4
+2019-09-25 00:44:39.277  INFO 3532 --- [http-nio-9001-exec-8] c.a.demo.controller.ProjectController    : Get all Projects with count: 4
+2019-09-25 00:45:31.379  INFO 3532 --- [http-nio-9001-exec-6] c.a.demo.controller.UserController       : Get all Users with count: 4
+2019-09-25 00:45:37.411  INFO 3532 --- [http-nio-9001-exec-5] c.a.d.controller.ParentTaskController    : Get all Parent Tasks with count: 1
+2019-09-25 00:45:46.976  INFO 3532 --- [http-nio-9001-exec-2] c.a.demo.controller.TaskController       : Task added successfully with name: metal
+2019-09-25 00:47:01.727  INFO 3532 --- [http-nio-9001-exec-10] c.a.demo.controller.ProjectController    : Get all Projects with count: 4
+2019-09-25 00:47:04.247  INFO 3532 --- [http-nio-9001-exec-9] c.a.demo.controller.ProjectController    : Get all Projects with count: 4
+2019-09-25 00:47:30.031  INFO 3532 --- [http-nio-9001-exec-7] c.a.demo.controller.ProjectController    : Get all Projects with count: 4
+2019-09-25 00:48:03.301  INFO 3532 --- [http-nio-9001-exec-5] c.a.demo.controller.UserController       : Get all Users with count: 4
+2019-09-25 00:48:13.340  INFO 3532 --- [http-nio-9001-exec-2] c.a.demo.controller.ProjectController    : Project added successfully with name: Marina
+2019-09-25 01:04:25.217  INFO 3532 --- [http-nio-9001-exec-10] c.a.demo.controller.ProjectController    : Get all Projects with count: 5
+2019-09-25 01:05:57.383  WARN 3532 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=45s10ms109µs700ns).
+2019-09-25 01:06:37.435  INFO 3532 --- [http-nio-9001-exec-8] c.a.demo.controller.ProjectController    : Get all Projects with count: 5
+2019-09-25 01:08:05.603  INFO 3532 --- [http-nio-9001-exec-6] c.a.demo.controller.ProjectController    : Get all Projects with count: 5
+2019-09-25 01:08:20.605  INFO 3532 --- [http-nio-9001-exec-4] c.a.demo.controller.UserController       : Get all Users with count: 4
+2019-09-25 01:08:23.608  INFO 3532 --- [http-nio-9001-exec-3] c.a.demo.controller.ProjectController    : Get all Projects with count: 5
+2019-09-25 01:14:28.289  INFO 3532 --- [http-nio-9001-exec-1] c.a.demo.controller.ProjectController    : Get all Projects with count: 5
+2019-09-25 01:15:07.452  INFO 3532 --- [http-nio-9001-exec-9] c.a.demo.controller.ProjectController    : Get all Projects with count: 5
+2019-09-25 01:15:19.041  INFO 3532 --- [http-nio-9001-exec-7] c.a.demo.controller.UserController       : Get all Users with count: 4
+2019-09-25 01:15:23.510  INFO 3532 --- [http-nio-9001-exec-6] c.a.demo.controller.ProjectController    : Get all Projects with count: 5
+2019-09-25 01:24:49.857  INFO 107636 --- [restartedMain] com.fse.main.ProjectManagerApplication   : Starting ProjectManagerApplication on Javafs with PID 107636 (C:\Users\Admin\Documents\workspace-sts-3.9.1.RELEASE\PM-BackEnd-master.zip_expanded\PM-BackEnd-master\target\classes started by Admin in C:\Users\Admin\Documents\workspace-sts-3.9.1.RELEASE\PM-BackEnd-master.zip_expanded\PM-BackEnd-master)
+2019-09-25 01:24:49.873  INFO 107636 --- [restartedMain] com.fse.main.ProjectManagerApplication   : No active profile set, falling back to default profiles: default
+2019-09-25 01:24:50.409  INFO 107636 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-09-25 01:24:50.409  INFO 107636 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-09-25 01:25:00.157  INFO 107636 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-09-25 01:25:00.770  INFO 107636 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 516ms. Found 4 repository interfaces.
+2019-09-25 01:25:05.478  INFO 107636 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c1fd605b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-09-25 01:25:12.549  INFO 107636 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9001 (http)
+2019-09-25 01:25:13.141  INFO 107636 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-25 01:25:13.141  INFO 107636 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-25 01:25:14.782  INFO 107636 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-25 01:25:14.782  INFO 107636 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 24372 ms
+2019-09-25 01:25:18.880  INFO 107636 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-09-25 01:25:20.022  INFO 107636 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-09-25 01:25:21.851  INFO 107636 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-09-25 01:25:22.287  INFO 107636 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate Core {5.3.11.Final}
+2019-09-25 01:25:22.318  INFO 107636 --- [restartedMain] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found
+2019-09-25 01:25:23.427  INFO 107636 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-09-25 01:25:24.631  INFO 107636 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-09-25 01:25:30.675  INFO 107636 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-09-25 01:25:31.123  INFO 107636 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-09-25 01:25:50.192  INFO 107636 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-25 01:25:52.204  WARN 107636 --- [restartedMain] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-09-25 01:26:00.205  INFO 107636 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9001 (http) with context path ''
+2019-09-25 01:26:00.256  INFO 107636 --- [restartedMain] com.fse.main.ProjectManagerApplication   : Started ProjectManagerApplication in 75.897 seconds (JVM running for 78.665)
+2019-09-25 01:26:05.168  INFO 107636 --- [http-nio-9001-exec-10] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-25 01:26:05.191  INFO 107636 --- [http-nio-9001-exec-10] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-25 01:26:05.657  INFO 107636 --- [http-nio-9001-exec-10] o.s.web.servlet.DispatcherServlet        : Completed initialization in 460 ms
+2019-09-25 01:26:06.417  INFO 107636 --- [http-nio-9001-exec-10] o.h.h.i.QueryTranslatorFactoryInitiator  : HHH000397: Using ASTQueryTranslatorFactory
+2019-09-25 01:26:08.758  INFO 107636 --- [http-nio-9001-exec-10] c.fse.main.controller.ProjectController  : Get all Projects with count: 5
+2019-09-25 01:36:25.380  INFO 107636 --- [http-nio-9001-exec-8] c.fse.main.controller.ProjectController  : Get all Projects with count: 5
+2019-09-25 01:36:36.008  INFO 107636 --- [http-nio-9001-exec-5] c.fse.main.controller.ProjectController  : Delete Project with Id: 3
+2019-09-25 01:36:36.217  INFO 107636 --- [http-nio-9001-exec-5] c.fse.main.controller.ProjectController  : Project deleted successfully.
+2019-09-25 01:36:54.789  INFO 107636 --- [http-nio-9001-exec-3] com.fse.main.controller.UserController   : Get all Users with count: 4
